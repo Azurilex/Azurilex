@@ -5,6 +5,8 @@
 [<img align="left" alt="Azurilex | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Azurilex | Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />][steam]
 
+<br />
+
 ### Languages and Tools:
 [<img align="left" alt="C++" width="26px" src="https://cdn.isabelle.gg/cpp.png" />]
 [<img align="left" alt="Visual Studio" width="26px" src="https://cdn.isabelle.gg/vs.png" />]
