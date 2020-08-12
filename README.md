@@ -20,6 +20,9 @@
 
 <img align="left" alt="Azurilex's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Azurilex&show_icons=true&hide_border=true" />
 
+<br />
+<br />
+
 [website]: https://isabelle.gg/
 [twitter]: https://twitter.com/Azurilex
 [youtube]: https://youtube.com/Azurilex
