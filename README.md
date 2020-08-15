@@ -23,7 +23,7 @@
 
 ---
 
-<img align="left" alt="Azurilex's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Azurilex&show_icons=true&hide_border=false" />
+<img align="left" alt="Azurilex's Github Stats" src="https://https://github-readme-stats.vercel.app/api?username=Azurilex&show_icons=true&hide_border=false" />
 
 <br />
 <br />
@@ -38,7 +38,7 @@
 
 ---
 
-<img align="left" alt="Azurilex's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api/top-langs/?username=Azurilex&show_icons=true&hide_border=false" />
+<img align="left" alt="Azurilex's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azurilex&show_icons=true&hide_border=false" />
 
 [website]: https://isabelle.gg/
 [twitter]: https://twitter.com/Azurilex
